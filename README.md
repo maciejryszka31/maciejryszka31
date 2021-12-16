@@ -2,7 +2,6 @@
 - 👀 I’m interested in product/project management, C++, C#, HTML. I did some simple aps like tic tac toe, comparision sites, maze game, rock-stone game, calculator. Also I have profesional experience with SQL.
 - 🌱 I’m currently learning SQL and C++ 
 - 📫 Reach me: maciejryszka31@gmail.com or tel: +48 577 915 824
-- 
 
 
 <!---
