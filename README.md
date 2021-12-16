@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Maciej Ryszka
-- 👀 I’m interested in product/project management, C++, C# and SQL
-- 🌱 I’m currently learning SQL and C++
-- 💞️ I’m looking to collaborate on PM
-- 📫 How to reach me maciejryszka31@gmail.com tel: 48 577 915 824
+- 👀 I’m interested in product/project management, C++, C#, SQL, HTML
+- 🌱 I’m currently learning SQL and C++ 
+- 💞️ I’m looking to collaborate on PM and support 
+- 📫 How to reach me maciejryszka31@gmail.com tel: +48 577 915 824
+- 🧷 I did some simple aplications like tic tac toe, comparision sites, maze game, rock-stone game, calculator in C#, C++, C. 
+
 
 <!---
 maciejryszka31/maciejryszka31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
